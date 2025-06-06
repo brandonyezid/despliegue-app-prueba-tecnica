@@ -1,3 +1,7 @@
+# Datos del Estudiantes
+Brandon Granada
+🕥 Horario Martes: 7:30 am a 10:30 am
+
 # Gestor de Tareas Académicas
 
 Este proyecto es una aplicación web front-end desarrollada con React para ayudar a los estudiantes a gestionar sus tareas académicas. Permite a los usuarios registrarse, iniciar sesión y realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre sus tareas. La aplicación utiliza `json-server` como backend simulado para la persistencia de datos y `localStorage` para gestionar la sesión del usuario.
